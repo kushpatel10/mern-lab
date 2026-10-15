@@ -1,0 +1,12 @@
+{
+  "name": "shopkart-lab-02",
+  "version": "1.0.0",
+  "description": "ShopKart Frontend & Backend - Lab 02",
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "dev:backend": "npm --prefix backend run dev",
+    "start:frontend": "npm --prefix frontend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}
